@@ -1,0 +1,9 @@
+C:\Users\lijy\Downloads\Programming WCF Services\Programming WCF Services\Source\10.安全\WindowsIdentityManagement\WindowsIdentityManagement\Host\bin\Debug\Host.exe.config
+C:\Users\lijy\Downloads\Programming WCF Services\Programming WCF Services\Source\10.安全\WindowsIdentityManagement\WindowsIdentityManagement\Host\bin\Debug\Host.exe
+C:\Users\lijy\Downloads\Programming WCF Services\Programming WCF Services\Source\10.安全\WindowsIdentityManagement\WindowsIdentityManagement\Host\bin\Debug\Host.pdb
+C:\Users\lijy\Downloads\Programming WCF Services\Programming WCF Services\Source\10.安全\WindowsIdentityManagement\WindowsIdentityManagement\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+C:\Users\lijy\Downloads\Programming WCF Services\Programming WCF Services\Source\10.安全\WindowsIdentityManagement\WindowsIdentityManagement\Host\obj\Debug\Host.HostForm.resources
+C:\Users\lijy\Downloads\Programming WCF Services\Programming WCF Services\Source\10.安全\WindowsIdentityManagement\WindowsIdentityManagement\Host\obj\Debug\Host.Properties.Resources.resources
+C:\Users\lijy\Downloads\Programming WCF Services\Programming WCF Services\Source\10.安全\WindowsIdentityManagement\WindowsIdentityManagement\Host\obj\Debug\Host.csproj.GenerateResource.Cache
+C:\Users\lijy\Downloads\Programming WCF Services\Programming WCF Services\Source\10.安全\WindowsIdentityManagement\WindowsIdentityManagement\Host\obj\Debug\Host.exe
+C:\Users\lijy\Downloads\Programming WCF Services\Programming WCF Services\Source\10.安全\WindowsIdentityManagement\WindowsIdentityManagement\Host\obj\Debug\Host.pdb

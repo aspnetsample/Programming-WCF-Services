@@ -1,0 +1,6 @@
+bin\Host.exe.config
+bin\Host.exe
+bin\Host.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Host.exe
+obj\Debug\Host.pdb
